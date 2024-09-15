@@ -57,8 +57,9 @@
     ```
 
 3. **Запуск программы**:
-    ```bash
-    python main.py
+     Исполняемый файл находится по ссылке
+     ```
+    https://drive.google.com/drive/folders/1hiEUEJ3gDzLKhmJhvuEN67q6VXK0OYXB?q=sharedwith:public%20parent:1hiEUEJ3gDzLKhmJhvuEN67q6VXK0OYXB
     ```
 
 ## 💻 Использование
