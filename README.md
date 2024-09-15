@@ -59,8 +59,8 @@
 3. **Запуск программы**:
      Исполняемый файл находится по ссылке
      ```
-    https://drive.google.com/drive/folders/1hiEUEJ3gDzLKhmJhvuEN67q6VXK0OYXB?q=sharedwith:public%20parent:1hiEUEJ3gDzLKhmJhvuEN67q6VXK0OYXB
-    ```
+     https://drive.google.com/file/d/1pqM3SKK5bDeFsj2KPJ1BKSye-4XXDpgl/view?usp=sharing
+     ```
 
 ## 💻 Использование
 
